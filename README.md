@@ -1,2 +1,2 @@
 # Stream
-Java stream into c++
+Java jstream into c++
